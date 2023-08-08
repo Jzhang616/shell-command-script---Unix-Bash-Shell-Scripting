@@ -1,8 +1,3 @@
-#Jason Zhang
-#JASZHANG
-#ID: 112920652
-
-
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
